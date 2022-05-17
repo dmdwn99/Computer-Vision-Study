@@ -1,6 +1,6 @@
 # Computer-Vision-Study
 
-# 1.개요
+# 1. 개요
 - 2022-1학기 Computer vision study
 - 학습 자료: 시작하세요 텐서플로 2.0 프로그래밍
 
