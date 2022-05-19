@@ -6,7 +6,7 @@
 
 # 2. 주차별 학습 내용
 
-| 주차 | 학습 내용 | 교재 페이지 |
+| 주차 | 학습 내용 |
 |:---:|:---:|:---:|
-| 1 | [Tensorflow 기초 및 신경망 이해](https://colab.research.google.com/drive/1thNL8S2_fMPTUAsgC5mwrQFbEq3-61D4#scrollTo=5cnEr1V_CLgx) | 31 ~ 72 |
+| 1 | [Tensorflow 기초 및 신경망 이해](https://colab.research.google.com/drive/1thNL8S2_fMPTUAsgC5mwrQFbEq3-61D4#scrollTo=5cnEr1V_CLgx) |
 
